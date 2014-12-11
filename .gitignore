@@ -1,0 +1,10 @@
+bin/*
+gen/*
+project.properties
+/gen/
+/bin/
+.checkstyle
+/.apt_generated/
+.DS_Store
+/.settings/
+/.gen/
